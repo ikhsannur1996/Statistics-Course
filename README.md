@@ -41,6 +41,10 @@ Additional chapters will cover descriptive statistics, probability, distribution
 
 - [Chapter 01 — Introduction to Statistics](course/01-introduction-to-statistics.md)
 
+## Development Milestones
+
+This course is developed one milestone per pull request. See [MILESTONES.md](MILESTONES.md) for the repository structure contract, milestone sequence, and definition of done.
+
 ## How to Use This Course
 
 Start from the `course/` folder and read each chapter in sequence. Use the notebooks, exercises, quizzes, and projects to practice the concepts.
