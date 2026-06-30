@@ -2,6 +2,8 @@
 
 This roadmap defines the long-term development plan for Statistics Course.
 
+Detailed pull request sequencing is tracked in [MILESTONES.md](MILESTONES.md). Each pull request should complete one milestone and preserve repository consistency.
+
 ## Phase 1 — Repository Foundation
 
 - Create core repository documentation.
