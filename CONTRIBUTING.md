@@ -62,10 +62,12 @@ Python examples should:
 ## Pull Request Process
 
 1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test code examples when applicable.
-5. Submit a pull request with a clear explanation.
+2. Select one milestone from [MILESTONES.md](MILESTONES.md).
+3. Create a feature branch for that milestone.
+4. Make only the changes required for that milestone.
+5. Test code examples and notebooks when applicable.
+6. Check that existing links still work.
+7. Submit a pull request with a clear explanation and verification notes.
 
 ## Documentation Guidelines
 
